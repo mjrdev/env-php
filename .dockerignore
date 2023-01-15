@@ -1,0 +1,4 @@
+conf/
+Dockerfile
+docker-compose.yml
+docker-compose-p.yml
